@@ -64,8 +64,8 @@ Rice Disease Prediction/
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd rice-disease-prediction
+   git clone https://github.com/ruhul-cse-duet/rice-disease_predict-streamlit.git
+   cd rice-disease_predict-streamlit
    ```
 
 2. **Create virtual environment**
