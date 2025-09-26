@@ -47,7 +47,7 @@ class RiceDiseaseApp:
     
     def render_home_page(self):
         """Render the home page"""
-        st.markdown('<h2 style="color:yellow;">RICE DISEASE RECOGNITION & TREATMENT MANAGEMENT</h2>', 
+        st.markdown('<h2 style="color:#DB3614;">RICE DISEASE RECOGNITION & TREATMENT MANAGEMENT</h2>',
                    unsafe_allow_html=True)
         
         # Display main image
